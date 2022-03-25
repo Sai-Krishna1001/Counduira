@@ -2,7 +2,7 @@ class MyThread extends Thread{
     
     @Override
     public void run(){
-        System.out.println("@@thread name : " + currentThread().getName());
+        System.out.println("Hello All");
     }
 }
 
