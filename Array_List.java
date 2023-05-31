@@ -10,4 +10,4 @@ class Array_List
 		System.out.println(arr);
 	}
 }
-		
+// 		krishna
